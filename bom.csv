@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,Samtec_HPM-02-05-x-S_Straight_1x02_Pitch5.08mm,1,9V,
+"C1, C3",CP_Radial_D5.0mm_P2.50mm,2,10uF,
+C2,CP_Radial_D10.0mm_P5.00mm,1,1000uF,
+C4,CAPRB500W50L450T300H550,1,330nF,
+J1,Samtec_HPM-02-05-x-S_Straight_1x02_Pitch5.08mm,1,Power,
+J2,Samtec_HPM-02-05-x-S_Straight_1x02_Pitch5.08mm,1,Jack,
+J3,Samtec_HPM-02-05-x-S_Straight_1x02_Pitch5.08mm,1,Crunch,
+J4,Samtec_HPM-02-05-x-S_Straight_1x02_Pitch5.08mm,1,Gain,
+J5,Samtec_HPM-02-05-x-S_Straight_1x02_Pitch5.08mm,1,Bass,
+J6,Samtec_HPM-02-05-x-S_Straight_1x02_Pitch5.08mm,1,Speaker,
+J7,Samtec_HPM-03-01-x-S_Straight_1x03_Pitch5.08mm,1,Volume,
+U1,DIP-8_W7.62mm_Socket,1,LM386,
