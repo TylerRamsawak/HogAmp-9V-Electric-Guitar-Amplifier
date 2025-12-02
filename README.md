@@ -1,6 +1,12 @@
 # HogAmp: 9V Electric Guitar Amplifier
 I made a very simple, portable guitar amplifier. Its based off the LM386N-1 and is designed to run off a single 9V battery. I travel a lot to-and-fro school and bringing my 10W amp, while small, is becoming annoying. Its a bit too big to fit in a backpack and needs mains ac to run. With my amp, these problems are gone in exchange for power and quality. However, for practice, this is not a concern to me. The HogAmp's name is inspired by the Pignose brand of amps. Those are too expensive for me, so here is my compromise!
 <br>
+### 3D Render of Enclosure
+![render_top](https://blueprint.hackclub.com//user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcwMDcsInB1ciI6ImJsb2JfaWQifX0=--1844be38e61f9dd4fd3f790b7f7c6b0a6a73e21c/render_top.png)
+![render1](https://blueprint.hackclub.com//user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcwMDgsInB1ciI6ImJsb2JfaWQifX0=--421f35ccccb60170a693c1ba4703d196ddd36abe/render1.png)
+![render_lid](https://blueprint.hackclub.com//user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcwMDksInB1ciI6ImJsb2JfaWQifX0=--1fbd6dd11f5d2ba5221063b815c25ee09b194e75/render_lid.png)
+
+<br>
 <div class="table_component" role="region" tabindex="0">
 <table>
     <caption>BOM</caption>
